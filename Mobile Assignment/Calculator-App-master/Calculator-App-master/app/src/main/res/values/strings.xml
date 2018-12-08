@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="title_activity_new">NewActivity</string>
+</resources>

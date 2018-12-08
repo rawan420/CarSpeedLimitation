@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarSpeedLimit</string>
+    <string name="enter_speed">Please, Enter the max speed !!</string>
+</resources>
